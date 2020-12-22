@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>531154174065-kefgblgp4raeabjaj0hfk177m4vadf0m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.531154174065-kefgblgp4raeabjaj0hfk177m4vadf0m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB061I8BwDnOPgtMogiqMkxNilThpj8yOI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>531154174065</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.danilovma.Zacon</string>
+	<key>PROJECT_ID</key>
+	<string>zacon-93593</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zacon-93593.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:531154174065:ios:ec901d237ee49693f19bd0</string>
+	<key>DATABASE_URL</key>
+	<string>https://zacon-93593.firebaseio.com</string>
+</dict>
+</plist>
